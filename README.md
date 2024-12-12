@@ -1,2 +1,3 @@
-# SortDescending
-Java solution for sorting names of animals in descending order
+- A 1D array stores the the names of 10 animals.
+- The procedure SortDescending() - Sorts the array into descending alphabetical order using only the first character in each animal name.
+- Outputs the sorted contents of the array.
